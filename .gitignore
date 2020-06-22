@@ -6,3 +6,8 @@
 *.step
 *.pdf
 History/
+Project Outputs for spray/
+*.PrjPcbStructure
+*.drc
+*.html
+__Preview/
